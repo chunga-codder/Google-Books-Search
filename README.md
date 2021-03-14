@@ -46,9 +46,9 @@ this moments
 ## links
 you can visit my application repo and live links here
 
-- [Github-Link](#https://github.com/chunga-codder/Google-Books-Search)
+- [Github-Link](https://github.com/chunga-codder/Google-Books-Search)
 
-- [live-Link](#https://as-book-search.herokuapp.com/)
+- [live-Link](https://as-book-search.herokuapp.com/)
 
 
 ## Technologies
