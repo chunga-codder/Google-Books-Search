@@ -3,6 +3,7 @@
 
 ## Table-of-contend
 
+-   [Overviews](#overviews)
 -   [Installation](#installation)
 -   [Usage](#usage)
     [Images](#images)
@@ -12,8 +13,6 @@
 -   [Contributing](#contributing)
 -   [Questions](#questions)
 
-
-https://as-book-search.herokuapp.com/
 
 ## Overviews
 1. New React-based Google Books Search app. 
