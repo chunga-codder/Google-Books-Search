@@ -10,7 +10,7 @@
 -   [Credits](#credits)
 -   [License](#license)
 -   [Links](#links)
--   [Contributing](#contributing)
+-   [Technologies](#technologies)
 -   [Questions](#questions)
 
 
@@ -53,5 +53,10 @@ you can visit my application repo and live links here
 
 ## Technologies
 > React, Node.js, Github, Heroku, npm packages(MongoDB, mongoose, axios, express), html, javascript, Jquery, Bootstrap, Bootswatch.
+
+## Questions
+
+if you have anyquestions regarding this application, please kindly contactme on my github or
+by mail: clintonchunga@gmail.com
 
 
