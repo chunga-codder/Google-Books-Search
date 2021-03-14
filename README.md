@@ -34,8 +34,11 @@ a user can use this application to store his collection of books
 and also,to add the books already read in a different card.
 a user can also search the books he is looking for 
 
-## credits
 ## Images:
+![google-boos](https://user-images.githubusercontent.com/71171928/111062402-d05c1580-84a8-11eb-98a5-7eb72e012bd0.PNG)
+
+
+## credits
 
 all creadits goes to me and my tutors who have let me throug
 this moments
@@ -43,9 +46,9 @@ this moments
 ## links
 you can visit my application repo and live links here
 
-Github : ![Github-Link](https://github.com/chunga-codder/Google-Books-Search)
+Github :- [Github-Link](#https://github.com/chunga-codder/Google-Books-Search)
 
-Heroku : ![live-Link](https://as-book-search.herokuapp.com/)
+Heroku :- [live-Link](#https://as-book-search.herokuapp.com/)
 
 
 ## Technologies
