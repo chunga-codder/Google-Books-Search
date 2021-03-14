@@ -19,6 +19,14 @@
 2. React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. 
 3. Users can save books to review or purchase later.
 
+## Instalation
+
+all a user will need is to install some dependences to be able to run this application
+- express
+- node
+- react
+- and som external react dependences
+
 ## Technolohy
 > React, Node.js, Github, Heroku, npm packages(MongoDB, mongoose, axios, express), html, javascript, Jquery, Bootstrap, Bootswatch.
 
