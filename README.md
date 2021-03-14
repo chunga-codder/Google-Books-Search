@@ -33,13 +33,8 @@ a user can use this application to store his collection of books
 and also,to add the books already read in a different card.
 a user can also search the books he is looking for 
 
-## Images
-![google-boos](https://user-images.githubusercontent.com/71171928/111062402-d05c1580-84a8-11eb-98a5-7eb72e012bd0.PNG)
-
-
 
 ## Technolohy
 > React, Node.js, Github, Heroku, npm packages(MongoDB, mongoose, axios, express), html, javascript, Jquery, Bootstrap, Bootswatch.
 
-## Screenshot
-![googleBooksSearch](https://user-images.githubusercontent.com/44251380/55913098-cee58c80-5bb1-11e9-985e-a2fe0380d833.jpg)
+
