@@ -38,6 +38,13 @@ a user can also search the books he is looking for
 all creadits goes to me and my tutors who have let me throug
 this moments
 
+## links
+you can visit my application repo and live links here
+
+Github : ![Github-Link](https://github.com/chunga-codder/Google-Books-Search)
+
+Heroku : ![live-Link]()
+
 
 ## Technologies
 > React, Node.js, Github, Heroku, npm packages(MongoDB, mongoose, axios, express), html, javascript, Jquery, Bootstrap, Bootswatch.
